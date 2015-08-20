@@ -14,6 +14,19 @@ if (Meteor.isClient) {
       Session.set('counter', Session.get('counter') + 1);
     }
   });
+
+  $(document).ready(function(){
+      $('.grid').isotope({
+        // options...
+        itemSelector: '.grid-item',
+        masonry: {
+          columnWidth: 200
+        }
+      });
+  });
+
+
+
 }
 
 if (Meteor.isServer) {
