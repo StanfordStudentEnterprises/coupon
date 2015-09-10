@@ -17,7 +17,9 @@
     </nav>
 
     <section id="main" class="container">
-    	<div class="box cat1 cat2">
+        {{> elements}}
+        
+    	<!-- <div class="box cat1 cat2">   
     	Odd future 3 wolf moon twee, cliche marfa post-ironic pop-up master cleanse next level pickled gentrify. Direct trade small batch YOLO, pitchfork lomo PBR high life intelligentsia readymade letterpress flexitarian tousled. Direct trade pitchfork hoodie twee, yr pour-over Austin marfa 90's flexitarian food truck mlkshk helvetica +1 trust fund.
     	</div>
     
@@ -112,11 +114,22 @@
     
     	<div class="box cat3">
     	Mcsweeney's freegan readymade, fingerstache pitchfork organic food truck mixtape odd future single-origin coffee PBR. Four loko selfies PBR church-key, twee vice locavore art party. Brunch blog beard direct trade, fixie readymade cosby sweater. Marfa wayfarers fixie, squid selfies hashtag trust fund cliche.
-    	</div>
+    	</div> -->
     
     </section>
 
 </body>
+
+<template name="elements">
+    hello world
+    {{#each coupons}}
+    <!-- <div> -->
+        {{this.vendor}}
+        <img src="{{this.url}}">
+        <!-- <h3>{{vendor}}</h3> -->
+    <!-- </div> -->
+    {{/each}}
+</template>
 
 <template name="hello">
 <button>Click Me</button>
