@@ -4,87 +4,87 @@ if (Meteor.isClient) {
         {
             "id": 1,
             "vendor": "Accent Arts",
-            "url": "https://www.dropbox.com/s/jbevp06nnttap6b/AccentArts_dcx2OUT-01.tif?dl=0"
+            "url": "https://photos-4.dropbox.com/t/2/AADywLo1DfakebVXN2yfAQRtpm4fOo1pyrCJOgXawA-7og/12/460940423/jpeg/32x32/1/_/1/2/AccentArts_dcx2OUT-01.tif/EO3vj90DGBUgBygH/8qNa9zym7mPhygYScO9vnMH6QP3coCheovUy3_L6-0o?size=1280x960&size_mode=2"
         },
         {
             "id": 2,
             "vendor": "Allied Brokers",
-            "url": "https://www.dropbox.com/s/d37wvqb4viiu0ot/AlliedBrokers_OLprem-01.png?dl=0"
+            "url": "https://photos-5.dropbox.com/t/2/AADzR63fy-z2ZUH0FYIfGqV9MOlLKSpBewAFD9XniQUt9g/12/460940423/png/32x32/1/_/1/2/AlliedBrokers_OLprem-01.png/EO3vj90DGBUgBygH/KZwLIkfUiFLhr2xbyhehvRmPFo8uqxy1Zg4uiFMSNQs?size=1024x768&size_mode=2"
         },
         {
             "id": 3,
             "vendor": "Anza Airport Parking",
-            "url": "https://www.dropbox.com/s/2dahbtwp0hcucx4/AnzaAirportParking_olPrem.gif?dl=0"
+            "url": "https://dl-web.dropbox.com/get/Coupons/AnzaAirportParking_olPrem.gif?_subject_uid=460940423&w=AAA7LJvGirWq2Qloh1JAygH0KQJGRJuaI5a9eAhDrVEcSg&size=1024x768&size_mode=2"
         },
         {
             "id": 4,
             "vendor": "Bell's Books",
-            "url": "https://www.dropbox.com/s/oy0487qaojkl4k5/BellsBooks_LogoOut-01.tif?dl=0"
+            "url": "https://photos-2.dropbox.com/t/2/AADToRa-Sm_liqMLi_iNvArnCD0fIu5Na0Orn-iSmUshag/12/460940423/jpeg/32x32/1/_/1/2/BellsBooks_LogoOut-01.tif/EO3vj90DGBUgBygH/tYdkjK-KoV_uabQR048bzQ2NvJNZGzmcA-bebyl90Kk%2CVTr92k86m0UE222YKCtZwJGjaFF_lEKup_8cnw5ai7s?size=1024x768&size_mode=2"
         },
         {
             "id": 5,
             "vendor": "Campus Bike Shop",
-            "url": "https://www.dropbox.com/s/be8cci2x6hlobpw/CampusBikeShop_gcout-01.tif?dl=0"
+            "url": "https://photos-1.dropbox.com/t/2/AABi-Qr7xAtLPCdyBReLcmQnDzVqb5uHTdvffNcdZq7DaQ/12/460940423/jpeg/32x32/1/_/1/2/CampusBikeShop_gcout-01.tif/EO3vj90DGBUgBygH/n5Ym3nXqliPhuB4aANwA-m3xNDerfgbWzvCpuXm5RVw?size=1024x768&size_mode=2"
         },
         {
             "id": 6,
             "vendor": "Earl Whetstone DDS",
-            "url": "https://www.dropbox.com/s/5rajxqm143jwwja/EarlWhetstoneDDS_dcOut-01.tif?dl=0"
+            "url": "https://photos-2.dropbox.com/t/2/AAA_0jeepwXnfeJ4vRMlJfNH9CQsbyU9taZ8NWJSKVZWlw/12/460940423/jpeg/32x32/1/_/1/2/EarlWhetstoneDDS_dcOut-01.tif/EO3vj90DGBUgBygH/0M9hSJTT8RHv6d4B8Z091uZCl_oEBeQzlmFCelleS3s?size=1024x768&size_mode=2"
         },
         {
             "id": 7,
             "vendor": "GreatClips",
-            "url": "https://www.dropbox.com/s/ys3sf0a3nlrjgd1/GreatClips_dcOUT-01.tif?dl=0"
+            "url": "https://photos-3.dropbox.com/t/2/AAB6CgzfahBhKUvrzr2ozUDzlD560xSctQfU3tLjTyOzOw/12/460940423/jpeg/32x32/1/_/1/2/GreatClips_dcOUT-01.tif/EO3vj90DGBUgBygH/dUmgTavqSbjmrKWrkm2X5SAUcez3O1FJf3SES8vfccQ?size=1024x768&size_mode=2"
         },
         {
             "id": 8,
             "vendor": "Holiday Cleaners",
-            "url": "https://www.dropbox.com/s/tvyjxrtf64a4nx9/HolidayCleaners_yp1-4Vout-01.tif?dl=0"
+            "url": "https://photos-3.dropbox.com/t/2/AACTR4uEtENi11xBgsj-ZlPi7L8TKOyT4_HymElYC6W0Bw/12/460940423/jpeg/32x32/1/_/1/2/HolidayCleaners_yp1-4Vout-01.tif/EO3vj90DGBUgBygH/O9wI-_wutwSo0sWmL585NUSI3wpYLUCsh9psRnlgkF0?size=1024x768&size_mode=2"
         },
         {
             "id": 9,
             "vendor": "Jacquies Sew & Sew",
-            "url": "https://www.dropbox.com/s/5l63qmad1n0zwc2/Jacquies_gcOut-01.tif?dl=0"
+            "url": "https://photos-6.dropbox.com/t/2/AAD_dpVhAbbLkSJza3YzaVq8JSGpv-7sDHQKD8V7tCCTgQ/12/460940423/jpeg/32x32/1/_/1/2/Jacquies_gcOut-01.tif/EO3vj90DGBUgBygH/16x_4e7PQkxqQVSdHy77kq-mDdqP_6lGmXQ5qoXyzLA?size=1024x768&size_mode=2"
         },
         {
             "id": 10,
             "vendor": "Love n Care",
-            "url": "https://www.dropbox.com/s/np2ng6axz7bu4jc/LoveNCare_yp1-8gsout-01.tif?dl=0"
+            "url": "https://photos-3.dropbox.com/t/2/AADnQNqSG98uxKHO3M713pZc4bOfjqyXahRc877Cn0SqcQ/12/460940423/jpeg/32x32/1/_/1/2/LoveNCare_yp1-8gsout-01.tif/EO3vj90DGBUgBygH/Fx-bbLx-j3D1ZDhDvq1yJWJ2vV49s8kx23QyZeEyrUQ?size=1024x768&size_mode=2"
         },
         {
             "id": 11,
             "vendor": "Massage Therapy Center",
-            "url": "https://www.dropbox.com/s/jxyog8fmk53bnqk/MassageTherapyCenter_ugOLprem.png?dl=0"
+            "url": "https://photos-4.dropbox.com/t/2/AAB6rLCioWpDt3wD_R1ye-3b4rdVTO8s8DR-srSJeI22aA/12/460940423/png/32x32/1/_/1/2/MassageTherapyCenter_ugOLprem.png/EO3vj90DGBUgBygH/mWgFwDnVYpflCzVvhyaRrjesioqlRreexdXA1chMGhQ?size=1024x768&size_mode=2"
         },
         {
             "id": 12,
             "vendor": "Nolan Barton Bradford Olmos LLP",
-            "url": "https://www.dropbox.com/s/wt7wr9w7ak9z4uk/NolanBarton_OLprem445px-01.png?dl=0"
+            "url": "https://photos-4.dropbox.com/t/2/AAAtGERmOWzOPD11UIIkit9pbJYxCCXykcuJomTmgfDAjA/12/460940423/png/32x32/1/_/1/2/NolanBarton_OLprem445px-01.png/EO3vj90DGBUgBygH/twTBLHMpz0ttUWYLu2BMZFD0S6PiHDTMgQ3Fbfr24R0?size=1024x768&size_mode=2"
         },
         {
             "id": 13,
             "vendor": "Omega Printing",
-            "url": "https://www.dropbox.com/s/bye1l57okcohalc/OmegaPrinting_OLprem-01.png?dl=0"
+            "url": "https://photos-4.dropbox.com/t/2/AABQ5ncMKHM7bEel9zbyPbeRRPesANmdk9uRZo7jngPMwg/12/460940423/png/32x32/1/_/1/2/OmegaPrinting_OLprem-01.png/EO3vj90DGBUgBygH/a13mlhwrZ9EDRkeAK46bvI8XRX-8tlMaGCXcH9pLwt8?size=1024x768&size_mode=2"
         },
         {
             "id": 14,
             "vendor": "Peninsula Storage",
-            "url": "https://www.dropbox.com/s/r7ejamuk2048rf9/PeninsulaStorage_OLprem.png?dl=0"
+            "url": "https://photos-2.dropbox.com/t/2/AAC2hHmGpvVEhkARuXNQ95I3H02DSw_szU0_f0_T8oCN1g/12/460940423/png/32x32/1/_/1/2/PeninsulaStorage_OLprem.png/EO3vj90DGBUgBygH/TmOxIp7_4GHtFICwcRUvCA_sn0wShlJ5RJQ77DBrTW4?size=1024x768&size_mode=2"
         },
         {
             "id": 15,
             "vendor": "Roy's Cleaners",
-            "url": "https://www.dropbox.com/s/4qes75p2e3wj5r4/RoysCleaners_AdNetSUPost-01.png?dl=0"
+            "url": "https://photos-2.dropbox.com/t/2/AAD88gmaXy-icksssUMnjEOniInOBJDvPy8GrjO3FNJ7Mw/12/460940423/png/32x32/1/_/1/2/RoysCleaners_AdNetSUPost-01.png/EO3vj90DGBUgBygH/IpeimU-EfqYweo_fJXe47X0eU-MsfHkhpUm7VmraNVQ?size=1024x768&size_mode=2"
         },
         {
             "id": 16,
             "vendor": "The North Face",
-            "url": "https://www.dropbox.com/s/91s0aoxi1kpo856/TNFLogoTagUrl485.jpg?dl=0"
+            "url": "https://photos-3.dropbox.com/t/2/AAB02kpEF_XAyGPseMhwoQfRLLD0M0iajCGzfohu7yid7Q/12/460940423/jpeg/32x32/1/_/1/2/TNFLogoTagUrl485.jpg/EO3vj90DGBUgBygH/p4RxKMQQmh4jo5TzXz3TtlTWsdNmugKf_d8ehJYJpHY?size=1024x768&size_mode=2"
         },
             {
             "id": 17,
             "vendor": "West Valley Music",
-            "url": "https://www.dropbox.com/s/sg5swawxvliz8q8/westvalleymusic_OLPrem.png?dl=0"
+            "url": "https://photos-6.dropbox.com/t/2/AACW5O1C6-P8XUckMPOlAxZYsJiIdNWGEACQQVU-o3HI-w/12/460940423/png/32x32/1/_/1/2/westvalleymusic_OLPrem.png/EO3vj90DGBUgBygH/fK780Nkf-N-UMbfQRjLqFfGM8KZdtjxmkExq2HdGj2s?size=1024x768&size_mode=2"
         },
     ];
     
@@ -116,7 +116,7 @@ if (Meteor.isClient) {
     		masonry: {
     			columnWidth: columnWidth
     		}
-    	});	
+    	});
     	
     	
     	function setSizes(){
