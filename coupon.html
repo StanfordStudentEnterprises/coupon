@@ -19,7 +19,7 @@
     <section id="main" class="container">
         {{> elements}}
         
-    	<!-- <div class="box cat1 cat2">   
+    	<!-- <div class="box cat1 cat2">
     	Odd future 3 wolf moon twee, cliche marfa post-ironic pop-up master cleanse next level pickled gentrify. Direct trade small batch YOLO, pitchfork lomo PBR high life intelligentsia readymade letterpress flexitarian tousled. Direct trade pitchfork hoodie twee, yr pour-over Austin marfa 90's flexitarian food truck mlkshk helvetica +1 trust fund.
     	</div>
     
@@ -121,13 +121,12 @@
 </body>
 
 <template name="elements">
-    hello world
     {{#each coupons}}
-    <!-- <div> -->
-        {{this.vendor}}
-        <img src="{{this.url}}">
+    <div class="box">
+        <h3>{{this.vendor}}</h3>
+        <img src="{{this.url}}" style="max-width: 15%">
         <!-- <h3>{{vendor}}</h3> -->
-    <!-- </div> -->
+    </div>
     {{/each}}
 </template>
 
